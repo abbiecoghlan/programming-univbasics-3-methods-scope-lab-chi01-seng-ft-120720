@@ -8,7 +8,11 @@ def toadstool
   puts status
 end
 
+def link
+  phrase = ""
+
 def all_phrases
   mario
   toadstool
+  link
 end
