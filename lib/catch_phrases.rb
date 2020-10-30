@@ -9,3 +9,6 @@ def toadstool
 end
 
 def link
+  mario
+  toadstool
+end
